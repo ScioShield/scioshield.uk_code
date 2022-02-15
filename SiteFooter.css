@@ -1,0 +1,17 @@
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/command-line/prism-command-line.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/toolbar/prism-toolbar.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.13.4/tocbot.min.js" integrity="sha512-f2Iw6wB+007ptSCci181Pmt7e43VFEzVktLSC+qE/+jmW1ejfz26PLMX/P4PoIUzxbm3rjLCHlIDoiTQPj/5jQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    tocbot.init({
+        tocSelector: '.toc',
+        contentSelector: '.post',
+        hasInnerContainers: true,
+        headingSelector: 'h1, h2, h3',
+        ignoreSelector: '.single-footer-title, .related-title',
+    });
+</script>
+<script>
+    var gh_white_logo = 'https://scioshield.ghost.io/content/images/2021/10/ScioShield-2.png';
+</script>
